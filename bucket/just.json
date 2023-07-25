@@ -10,6 +10,7 @@
         }
     },
     "bin": "just.exe",
+    "depends": "fzf",
     "checkver": {
         "github": "https://github.com/casey/just"
     },
